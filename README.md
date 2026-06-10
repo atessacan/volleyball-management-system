@@ -83,5 +83,5 @@ Kullanıcılar sahip oldukları rollere göre farklı yetkilere sahiptir. Sistem
 
 Video bağlantısı:
 
-(Buraya Youtube veya Google Drive bağlantısı eklenecektir.)
+https://drive.google.com/file/d/1sJGIp9RVhWxE1sTMDqMJZJgviljqoCWX/view?usp=sharing
 
